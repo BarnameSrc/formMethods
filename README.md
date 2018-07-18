@@ -1,6 +1,6 @@
 # formMethods
 Source Amoozeshi method POST va GET
 
-t.me/BarnameOte
+https://t.me/BarnameOte
 
-Amoozesh dar : barnamesrc.cf/formMethods
+Amoozesh dar : http://barnamesrc.cf/formMethods
