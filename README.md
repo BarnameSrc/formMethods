@@ -1,5 +1,6 @@
 # formMethods
-سورس آموزشی متدهای پست و گِت
+Source Amoozeshi method POST va GET
+
 t.me/BarnameOte
-آموزش در
-barnamesrc.cf/formMethods/index.php
+
+Amoozesh dar : barnamesrc.cf/formMethods
