@@ -15,5 +15,5 @@
       Last Name: <input type="text" name="LN"><br>
       <input type="submit" name="submit" value="Submit!">
     </form>
-  </body
+  </body>
 </html>
